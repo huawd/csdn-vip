@@ -6,6 +6,6 @@ package com.gupaoedu.vip.pattern.singleton.test;
  */
 public class Test1 {
     public static void main(String[] args) {
-        System.out.println("mybatis branchs test 22222222！");
+        System.out.println("mybatis branchs test 33333！");
     }
 }
