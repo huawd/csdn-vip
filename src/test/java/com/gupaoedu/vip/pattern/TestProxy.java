@@ -6,6 +6,6 @@ package com.gupaoedu.vip.pattern;
  */
 public class TestProxy {
     public static void main(String[] args) {
-        System.out.println("test proxy!!!!!!!");
+        System.out.println("2021 我要暴富 暴富 暴富！！！！！" );
     }
 }
