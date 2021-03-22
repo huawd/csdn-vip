@@ -7,7 +7,7 @@ import java.io.Serializable;
  */
 public class Author implements Serializable {
     Integer authorId; // 作者ID
-    String authorName; // 作者名称
+    String authorName; // 作者名称------
 
     public Integer getAuthorId() {
         return authorId;
